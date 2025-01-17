@@ -1,60 +1,45 @@
 
-# 🌳 UrbanGreen
+#  UrbanGreen
+
 
 <div align="center">
-  <img src="https://github.com/dilrukshax/urbangreen/blob/main/assets/logo.png" alt="UrbanGreen Logo" width="200">
+
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+ ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 </div>
+
+##  Project Overview
+
 
 UrbanGreen is a smart city mobile application designed to enhance urban sustainability, efficiency, and community engagement. Built with **Flutter** and **Firebase**, UrbanGreen integrates essential urban services, aiming to support Sustainable Development Goal (SDG) 11: Sustainable Cities and Communities.
 
----
-
-## 🌐 Table of Contents
-
-- [📘 Project Overview](#-project-overview)
-- [✨ Features](#-features)
-- [📸 Screenshots](#-screenshots)
-  - [User Side](#user-side)
-  - [Admin Side](#admin-side)
-  - [Driver Side](#driver-side)
-- [📄 Case Study](#-case-study)
-- [🚀 Getting Started](#-getting-started)
-- [🛠 Technologies Used](#-technologies-used)
-- [👥 Contributors](#-contributors)
-- [🤝 Contributing](#-contributing)
-
----
-
-## 📘 Project Overview
-
-UrbanGreen addresses critical urban issues like traffic congestion, environmental sustainability, and limited civic participation. By providing real-time public transport tracking, robust community features, and timely notifications, UrbanGreen improves urban living and strengthens community bonds.
 
 > **Goal**: To create a connected, sustainable, and engaged urban community by leveraging technology.
 
----
 
-## ✨ Features
+## Features
 
-### 1. 🚍 Real-Time Public Transport Tracking
+### 1. Real-Time Public Transport Tracking
    - View live locations of buses and trains.
    - Get estimated arrival times, delay notifications, and route details.
 
-### 2. 📢 Notifications and Alerts
+### 2. Notifications and Alerts
    - Receive updates on waste collection, utility interruptions, public events, and emergencies, keeping you informed at all times.
 
-### 3. 🌆 Community Engagement
+### 3. Community Engagement
    - Report urban issues (e.g., potholes, broken lights) with photos.
    - Participate in community events and forums to share ideas and collaborate on local projects.
 
-### 4. 🚨 Emergency Contact Access
+### 4. Emergency Contact Access
    - Instant access to emergency services with a prominent red bell icon for quick response.
 
-### 5. 📍 Location Management
+### 5. Location Management
    - Change location to view relevant transportation and event details for other areas.
 
----
 
-## 📸 Screenshots
+## Screenshots
 
 ### User Side
 
@@ -71,7 +56,6 @@ UrbanGreen addresses critical urban issues like traffic congestion, environmenta
 
 </div>
 
----
 
 ### Admin Side
 
@@ -80,7 +64,6 @@ UrbanGreen addresses critical urban issues like traffic congestion, environmenta
   <img src="https://github.com/user-attachments/assets/3b7f4919-df41-41d2-ac91-c7201e0473ee" alt="Admin Screenshot 2" width="250"/>
 </div>
 
----
 
 ### Driver Side
 
@@ -88,15 +71,13 @@ UrbanGreen addresses critical urban issues like traffic congestion, environmenta
   <img src="https://github.com/user-attachments/assets/e68e68fe-f700-4417-8860-8160a0e06725" alt="Driver Screenshot" width="250"/>
 </div>
 
----
 
-## 📄 Case Study
+##  Case Study
 
 For an in-depth look at the design and development process of UrbanGreen, check out our [Case Study on Behance](https://www.behance.net/your-behance-link).
 
----
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Flutter SDK**: Make sure you have Flutter installed.
@@ -125,17 +106,8 @@ For an in-depth look at the design and development process of UrbanGreen, check 
    flutter run
    ```
 
----
 
-## 🛠 Technologies Used
-
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
----
-
-## 👥 Contributors
+##  Contributors
 
 We’d like to thank all contributors to this project:
 
@@ -143,9 +115,8 @@ We’d like to thank all contributors to this project:
 - **Dilruksha A.G.C.D.** - [GitHub Profile](https://github.com/dilrukshax)
 - **Hesara P.K.A.N.** - [GitHub Profile](https://github.com/nidulaX)
 
----
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the community! To contribute:
 
@@ -155,6 +126,6 @@ We welcome contributions from the community! To contribute:
 4. **Push to the Branch** (`git push origin feature-branch`).
 5. **Open a Pull Request**.
 
----
+
 
 **UrbanGreen**: Paving the way for a greener, smarter, and more connected city.
