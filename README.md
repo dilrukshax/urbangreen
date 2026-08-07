@@ -74,7 +74,7 @@ UrbanGreen is a smart city mobile application designed to enhance urban sustaina
 
 ##  Case Study
 
-For an in-depth look at the design and development process of UrbanGreen, check out our [Case Study on Behance](https://www.behance.net/your-behance-link).
+A design and development case study for UrbanGreen is planned. (The previous Behance link was a placeholder and has been removed pending a published case-study URL.)
 
 
 ## Getting Started
@@ -118,13 +118,15 @@ We’d like to thank all contributors to this project:
 
 ##  Contributing
 
-We welcome contributions from the community! To contribute:
+This is a team coursework project and is not accepting external contributions.
 
-1. **Fork the Project**.
-2. **Create a Branch** (`git checkout -b feature-branch`).
-3. **Commit Your Changes** (`git commit -m 'Add new feature'`).
-4. **Push to the Branch** (`git push origin feature-branch`).
-5. **Open a Pull Request**.
+##  Testing
+
+CI runs `flutter pub get`, `flutter analyze`, and `flutter test` on Flutter 3.10.6 via `.github/workflows/dart.yml`. The committed `test/widget_test.dart` is the default Flutter counter test and references the boilerplate app entry, so it may not match the current app — verify before relying on CI.
+
+##  License
+
+No license file is present. This repository is a team coursework project with multiple contributors (see [Contributors](#contributors)); ownership has not been confirmed and no open-source license has been added. If you intend to reuse this code, first clarify ownership with the contributors.
 
 
 
